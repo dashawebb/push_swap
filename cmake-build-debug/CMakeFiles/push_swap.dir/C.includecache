@@ -6,3 +6,25 @@
 
 #IncludeRegexTransform: 
 
+../libft/includes/libft.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+stddef.h
+-
+ctype.h
+-
+limits.h
+-
+
+/Users/creek/push_swap/main.c
+stdio.h
+-
+libft.h
+/Users/creek/push_swap/libft.h
+unistd.h
+-
+
